@@ -4,8 +4,8 @@
 
 |Frontend|Frontend|Frontend|
 |:-------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|
-| <img src="https://avatars.githubusercontent.com/u/123650056?v=4" width=130px alt="재원"> | <img src="https://avatars.githubusercontent.com/u/137421610?v=4" width=130px alt="혜민"> | <img src="https://avatars.githubusercontent.com/u/51106050?v=4" width=130px alt="문용"> |
-|                          [재원](https://github.com/Gaoridang)                          |                           [혜민](https://github.com/IAMISTP)                           |                           [문용](https://github.com/GC-Park)                            |
+| <img src="https://avatars.githubusercontent.com/u/123650056?v=4" width=130px alt="재준"> | <img src="https://avatars.githubusercontent.com/u/137421610?v=4" width=130px alt="혜민"> | <img src="https://avatars.githubusercontent.com/u/51106050?v=4" width=130px alt="문용"> |
+|                          [재준](https://github.com/Gaoridang)                          |                           [혜민](https://github.com/IAMISTP)                           |                           [문용](https://github.com/GC-Park)                            |
 
 |Backend|Backend|Backend|Backend|
 |:--------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
