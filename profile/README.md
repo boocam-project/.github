@@ -9,8 +9,8 @@
 
 
 
-|Backend|Backend|Backend|Backend|
-|:--------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
-|<img src="https://avatars.githubusercontent.com/u/105612931?v=4" width=130px alt="혜미">| <img src="https://avatars.githubusercontent.com/u/139187207?v=4" width=130px alt="자현"/> | <img src="https://avatars.githubusercontent.com/u/118177454?v=4" width=130px alt="주환"/> | <img src="https://avatars.githubusercontent.com/u/94631526?v=4" width=130px alt="의정"/> |
-|[혜미](https://github.com/ghrltjdtprbs)|[자현](https://github.com/Nine-JH)|[주환](https://github.com/KwonJuHwan)|[의정](https://github.com/JeongUijeong)|
+|Backend Lead|Backend|Backend|Backend|Project Manager Backend|
+|:--------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
+|<img src="https://avatars.githubusercontent.com/u/105612931?v=4" width=130px alt="혜미">| <img src="https://avatars.githubusercontent.com/u/139187207?v=4" width=130px alt="자현"/> | <img src="https://avatars.githubusercontent.com/u/118177454?v=4" width=130px alt="주환"/> | <img src="https://avatars.githubusercontent.com/u/94631526?v=4" width=130px alt="의정"/> | <img src="https://avatars.githubusercontent.com/u/24273120?v=4" width=130px alt="승주"/> |
+|[혜미](https://github.com/ghrltjdtprbs)|[자현](https://github.com/Nine-JH)|[주환](https://github.com/KwonJuHwan)|[의정](https://github.com/JeongUijeong)|[승주](https://github.com/chimaek)|
 
