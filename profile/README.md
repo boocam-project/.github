@@ -2,10 +2,10 @@
 
 ## 팀원 👨‍👨‍👧‍👧👩‍👦‍👦
 
-|Frontend Lead|Frontend|Frontend|
-|:-------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|
-| <img src="https://avatars.githubusercontent.com/u/123650056?v=4" width=130px alt="재준"> | <img src="https://avatars.githubusercontent.com/u/51106050?v=4" width=130px alt="문용"> | <img src="https://avatars.githubusercontent.com/u/121204952?v=4" width=130px alt="해민"/> |
-|                          [재준](https://github.com/Gaoridang)                          |                           [문용](https://github.com/moonyah)                            |                           [해민](https://github.com/guruma99)                            |
+|Frontend Lead|Frontend|
+|:-------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|
+| <img src="https://avatars.githubusercontent.com/u/123650056?v=4" width=130px alt="재준"> | <img src="https://avatars.githubusercontent.com/u/121204952?v=4" width=130px alt="해민"/> |
+|                          [재준](https://github.com/Gaoridang)                          |                          [해민](https://github.com/guruma99)                            |
 
 
 
