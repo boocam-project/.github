@@ -2,10 +2,10 @@
 
 ## 팀원 👨‍👨‍👧‍👧👩‍👦‍👦
 
-|Frontend Lead|Frontend|Frontend|Frontend|
+|Frontend Lead|Frontend|Frontend
 |:-------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|
 | <img src="https://avatars.githubusercontent.com/u/123650056?v=4" width=130px alt="재준"> | <img src="https://avatars.githubusercontent.com/u/121204952?v=4" width=130px alt="해민"/> | <img src="https://github.com/fcstudy-project/.github/assets/105612931/e3be8f0f-29c6-4b7e-909e-929a26e4c67d" width=130px alt="용훈"/> | <img src="https://github.com/boocam-project/.github/assets/105612931/4930f3e8-e056-48d0-a965-e33653c97769" width=130px alt="수빈"/> |
-|[재준](https://github.com/Gaoridang)|[해민](https://github.com/guruma99)|[용훈](https://github.com/2YH02)|[수빈](https://github.com/AnSuebin)|
+|[재준](https://github.com/Gaoridang)|[해민](https://github.com/guruma99)|[용훈](https://github.com/2YH02)
 
 
 
